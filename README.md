@@ -9,9 +9,10 @@ This project is the product of many years of iterative development and combined
 community knowledge. It does not impose a specific development philosophy or
 framework, so you're free to architect your code in the way that you want.
 
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
+* Source: [https://github.com/kant-shashi/html5-boilerplate](https://github.com/kant-shashi/html5-boilerplate) or 
+[https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+* Homepage: [http://blog.tenhash.com](http://blog.tenhash.com) or [http://html5boilerplate.com](http://html5boilerplate.com)
+* Twitter: [@shashikant_10](http://twitter.com/shashikant_10)
 
 
 ## Quick start
