@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shashi Kant
+    http://blog.tenhash.com
+    http://twitter.com/shashikant_10
 
 # THANKS
 
-    <name>
+    
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     Normalize.css, jQuery, Modernizr
+    Bootstrap, font-awesome, open graph, twitter card

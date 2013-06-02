@@ -3,6 +3,8 @@
 HTML5 Boilerplate is a professional front-end template for building fast,
 robust, and adaptable web apps or sites.
 
+HTML5 Boilerplate# is a fork of HTML5 Boilerplate currently developed by shashi kant.
+
 This project is the product of many years of iterative development and combined
 community knowledge. It does not impose a specific development philosophy or
 framework, so you're free to architect your code in the way that you want.
@@ -17,10 +19,11 @@ framework, so you're free to architect your code in the way that you want.
 Choose one of the following options:
 
 1. Download the latest stable release from
+   https://github.com/kant-shashi/html5-boilerplate or download the basic HTML5-boilerplate from 
    [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
    [Initializr](http://www.initializr.com).
 2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
+   https://github.com/kant-shashi/html5-boilerplate.git` - and checkout the tagged
    release you'd like to use.
 
 
@@ -45,6 +48,9 @@ Choose one of the following options:
 * Cross-domain Ajax and Flash.
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive inline and accompanying documentation.
+* Responsive design ready with the help of twitter bootstrap.
+* Icons available to be used from font-awesome.
+* Search engine and social network friendly by using open graph and twitter card meta tags.
 
 
 ## Documentation

@@ -1,3 +1,10 @@
+# Me
+I am shashi kant and I am trying to take html5-boilerplate to new level by making it 
+more responsive, more search engine and social network friendly.
+I have kept the remaining content of this file intact as below.
+
+
+
 # Contributing to HTML5 Boilerplate
 
 ♥ [HTML5 Boilerplate](http://html5boilerplate.com) and want to get involved?
